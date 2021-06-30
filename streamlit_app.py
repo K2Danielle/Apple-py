@@ -15,7 +15,7 @@ from mlxtend.frequent_patterns import association_rules
 
 st.title("Apple-PY")
 st.title("Analyse comportement d'achats")
-st.image("logo.png", width=150)
+st.image("Logo.png", width=150)
 
 
 
